@@ -1,6 +1,6 @@
 # Hi, I'm Bishal Kumar 👋
 
-## 💻 Full-Stack MERN Developer|Backend Developer | AI Enthusiast
+## 💻 Full-Stack MERN Developer| Backend Developer | AI Enthusiast
 
 Building scalable web applications and integrating AI into real-world solutions.
 

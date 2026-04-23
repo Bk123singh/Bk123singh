@@ -26,10 +26,11 @@ Implemented secure Authentication & Authorization (JWT)<br>
 Designed RESTful APIs with robust error handling<br>
 Built category-based filtering and dynamic data rendering<br>
 Developed a responsive UI with smooth animations using React & Tailwind<br>
+Designed and integrated an Admin Dashboard for managing blogs, content, and users
 
-🔗 Live: YOUR_LIVE_LINK
+🔗 Live: [Link](https://ai-blog-platform-mu.vercel.app/)
 <br>
-🔗 GitHub: YOUR_GITHUB_REPO
+🔗 GitHub: [Link](https://github.com/Bk123singh/AI-Blog-Platform-)
 
 ## 🏗️ Singh Construction Website
 
@@ -39,10 +40,11 @@ Implemented secure Authentication & Authorization<br>
 Integrated REST APIs with proper error handling<br>
 Designed clean, user-friendly UI with responsive layouts<br>
 Optimized performance and structured frontend architecture<br>
+Developed an Admin Dashboard for managing website content and updates
 
-🔗 Live: YOUR_LIVE_LINK
+🔗 Live: [Link](https://singh-construction-pvt-ltd.vercel.app/)
 <br>
-🔗 GitHub: YOUR_GITHUB_REPO
+🔗 GitHub: [Link](https://github.com/Bk123singh/Singh-Construction-pvt.-Ltd.)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Bk123singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

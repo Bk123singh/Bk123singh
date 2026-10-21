@@ -1,6 +1,6 @@
 # Hi, I'm Bishal Kumar 👋
 
-## 💻 Full-Stack MERN Developer| Backend Developer | AI Enthusiast
+## 💻 Full-Stack MERN Developer| Backend Developer | AI Enthusiast 
 
 Building scalable web applications and integrating AI into real-world solutions.
 
@@ -12,6 +12,7 @@ Building scalable web applications and integrating AI into real-world solutions.
 💬 Ask me about React, Node.js, Express, MongoDB, JavaScript<br>
 ⚡ Fun fact: I enjoy gaming and exploring new tech<br>
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?logo=vercel&logoColor=white)](https://my-portfolio-xi-blush-4mf9h2snky.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bishal-kumar-b8a7b4272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishalkumar773568@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-D14836?logo=Leetcode&logoColor=white)](https://leetcode.com/u/heykumar/)
 
 # 💻 Tech Stack:
